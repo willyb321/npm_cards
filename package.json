@@ -1,6 +1,6 @@
 {
   "name": "NPM Cards",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Standard deck of cards from the CLI",
   "license": "MIT",
   "repository": "willyb321/npm-cards",
