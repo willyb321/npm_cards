@@ -1,0 +1,39 @@
+{
+  "name": "npm-cards",
+  "version": "0.0.0",
+  "description": "My incredible module",
+  "license": "MIT",
+  "repository": "willyb321/npm-cards",
+  "author": {
+    "name": "William Blythe",
+    "email": "wbwilliam7@gmail.com",
+    "url": "tehsuperwilly.tech"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && nyc ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "cards",
+    "deck of cards",
+    "deck"
+  ],
+  "dependencies": {
+    "meow": "^3.7.0",
+    "open": "0.0.5"
+  },
+  "devDependencies": {
+    "ava": "^0.15.1",
+    "nyc": "^6.4.0",
+    "xo": "^0.15.0"
+  }
+}
