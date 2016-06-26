@@ -1,7 +1,7 @@
 {
-  "name": "npm-cards",
+  "name": "NPM Cards",
   "version": "0.0.7",
-  "description": "My incredible module",
+  "description": "Standard deck of cards from the CLI",
   "license": "MIT",
   "repository": "willyb321/npm-cards",
   "author": {
