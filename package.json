@@ -28,7 +28,6 @@
     "deck"
   ],
   "dependencies": {
-    "meow": "^3.7.0",
     "open": "0.0.5"
   },
   "devDependencies": {
