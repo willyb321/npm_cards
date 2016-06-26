@@ -3,4 +3,4 @@
 var open = require('open');
 
 console.log('opening...');
-open('./cards.png');
+open('cards.png');
