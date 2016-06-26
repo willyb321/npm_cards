@@ -1,5 +1,4 @@
-# NPM Cards [![Build Status](https://travis-ci.org/willyb321/npm_cards.svg?branch=master)](https://travis-ci.org/willyb321/npm_cards)[![NPM](https://nodei.co/npm/npm-cards.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/npm-cards/)
-
+# NPM Cards [![Build Status](https://travis-ci.org/willyb321/npm_cards.svg?branch=master)](https://travis-ci.org/willyb321/npm_cards)[![NPM](https://nodei.co/npm/npm-cards.png)](https://nodei.co/npm/npm-cards/)  
 > Standard deck of cards from the CLI
 
 ## What does it do?  
