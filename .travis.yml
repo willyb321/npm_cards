@@ -22,3 +22,7 @@ deploy:
   on:
     repo: willyb321/npm_cards
     branch: master
+after_success:
+- export GIT_TAG=build-$TRAVIS_BUILD_NUMBER-$TRAVIS_BRANCH-$(date "+%Y-%m-%d-%I-%M")
+- git tag $GIT_TAG -a -m "Generated tag from TravisCI build $TRAVIS_BUILD_NUMBER"
+- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/npm_cards.git" $GIT_TAG
