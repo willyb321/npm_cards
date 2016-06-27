@@ -16,10 +16,6 @@
   "scripts": {
     "test": "xo && nyc ava"
   },
-  "files": [
-    "index.js",
-    "cli.js"
-  ],
   "keywords": [
     "cli-app",
     "cli",

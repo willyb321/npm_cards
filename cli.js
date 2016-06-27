@@ -3,4 +3,4 @@
 const opn = require('opn');
 
 console.log('opening...');
-opn('http://i.imgur.com/dqj2smT.png');
+opn('cards.png');
