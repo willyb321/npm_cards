@@ -2,7 +2,7 @@
 > Standard deck of cards from the CLI
 
 ## What does it do?  
-npm-cards gives you a tree diagram for a standard deck of cards, right from the command-line. Run ```npm-cards``` after installing and then your preferred image viewer will open up the diagram.  
+npm-cards gives you a tree diagram for a standard deck of cards, right from the command-line. Run ```npm-cards``` after installing and then your preferred ~~image viewer~~ (need to fix that, will open an imgur image in browser till) will open up the diagram.  
 ## Install
 
 ```sh
