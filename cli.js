@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 'use strict';
-var open = require('open');
+const opn = require('opn');
+
+var image = 'cards.png'
 
 console.log('opening...');
-open('cards.png');
+opn(image);

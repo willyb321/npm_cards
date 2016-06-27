@@ -28,7 +28,7 @@
     "deck"
   ],
   "dependencies": {
-    "open": "0.0.5"
+    "opn": "^4.0.2"
   },
   "devDependencies": {
     "ava": "^0.15.1",
