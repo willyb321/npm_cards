@@ -1,9 +1,9 @@
 {
   "name": "npm-cards",
-  "version": "0.0.14",
+  "version": "0.0.25",
   "description": "Standard deck of cards from the CLI",
   "license": "MIT",
-  "repository": "willyb321/npm-cards",
+  "repository": "willyb321/npm_cards",
   "author": {
     "name": "William Blythe",
     "email": "wbwilliam7@gmail.com",
@@ -16,10 +16,6 @@
   "scripts": {
     "test": "xo && nyc ava"
   },
-  "files": [
-    "index.js",
-    "cli.js"
-  ],
   "keywords": [
     "cli-app",
     "cli",
@@ -28,7 +24,7 @@
     "deck"
   ],
   "dependencies": {
-    "open": "0.0.5"
+    "opn": "^4.0.2"
   },
   "devDependencies": {
     "ava": "^0.15.1",

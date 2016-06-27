@@ -1,6 +1,9 @@
 #!/usr/bin/env node
 'use strict';
-var open = require('open');
+const path = require('path');
 
+const opn = require('opn');
+
+const img = path.join(__dirname, '/cards.png');
 console.log('opening...');
-open('cards.png');
+opn(img);
