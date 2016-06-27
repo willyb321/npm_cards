@@ -3,4 +3,4 @@
 const opn = require('opn');
 
 console.log('opening...');
-opn('cards.png');
+opn('./cards.png');
