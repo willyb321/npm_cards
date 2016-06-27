@@ -9,7 +9,8 @@ npm-cards gives you a tree diagram for a standard deck of cards, right from the 
 ```sh
 npm install -g npm-cards
 ```
-
+## Compatibility  
+Should run on most systems, Windows, macOS, unix, etc etc.
 
 ## Usage
 
