@@ -17,6 +17,10 @@ Should run on most systems, Windows, macOS, unix, etc etc.
 npm-cards
 ```
 
+## Changelog  
+See (https://github.com/willyb321/npm_cards/blob/master/CHANGELOG.md)[CHANGELOG.md] for the changes happening.
+
+
 ## License
 
 MIT © [William Blythe](https://tehsuperwilly.tech)
