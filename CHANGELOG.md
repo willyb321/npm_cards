@@ -1,5 +1,8 @@
 # Change Log
 
+## [build-37-master-2016-06-28-02-28](https://github.com/willyb321/npm_cards/tree/build-37-master-2016-06-28-02-28) (2016-06-28)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-36-master-2016-06-28-02-21...build-37-master-2016-06-28-02-28)
+
 ## [build-36-master-2016-06-28-02-21](https://github.com/willyb321/npm_cards/tree/build-36-master-2016-06-28-02-21) (2016-06-28)
 [Full Changelog](https://github.com/willyb321/npm_cards/compare/build-35-master-2016-06-28-02-02...build-36-master-2016-06-28-02-21)
 
