@@ -12,7 +12,7 @@ before_install:
 script:
 - git config user.name "Travis CI"
 - git config user.email "travis@travis-ci.com"
-- npm version patch -m "Update version to %s [ci skip]" && github_changelog_generator
+- npm version patch -m "Update version to %s [ci skip]" --no-git-tag-version && github_changelog_generator
 - git commit -am "Update CHANGELOG.md [ci skip] & bump version"
 - git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/npm_cards.git" HEAD:master > /dev/null 2>&1
 - npm test
