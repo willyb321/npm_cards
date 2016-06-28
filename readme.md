@@ -18,7 +18,7 @@ npm-cards
 ```
 
 ## Changelog  
-See (https://github.com/willyb321/npm_cards/blob/master/CHANGELOG.md)[CHANGELOG.md] for the changes happening.
+See [CHANGELOG.md](https://github.com/willyb321/npm_cards/blob/master/CHANGELOG.md) for the changes happening.
 
 
 ## License
