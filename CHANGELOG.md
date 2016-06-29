@@ -1,5 +1,8 @@
 # Change Log
 
+## [build-44-master-2016-06-30-07-26](https://github.com/willyb321/npm_cards/tree/build-44-master-2016-06-30-07-26) (2016-06-29)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-42-master-2016-06-30-07-22...build-44-master-2016-06-30-07-26)
+
 ## [build-42-master-2016-06-30-07-22](https://github.com/willyb321/npm_cards/tree/build-42-master-2016-06-30-07-22) (2016-06-29)
 [Full Changelog](https://github.com/willyb321/npm_cards/compare/build-41-master-2016-06-30-06-39...build-42-master-2016-06-30-07-22)
 
