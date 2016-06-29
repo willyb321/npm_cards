@@ -15,6 +15,9 @@ script:
 - npm test
 before_deploy:
 - npm version patch -m "Update version to %s [ci skip]" --no-git-tag-version
+- github_changelog_generator
+- git commit -am "Update CHANGELOG.md & bump version [ci skip]"
+- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/npm_cards.git" HEAD:master > /dev/null 2>&1
 deploy:
   provider: npm
   email: wbwilliam7@gmail.com
@@ -32,7 +35,3 @@ after_success:
 - export GIT_TAG=build-$TRAVIS_BUILD_NUMBER-$TRAVIS_BRANCH-$(date "+%Y-%m-%d-%I-%M")
 - git tag $GIT_TAG -a -m "Generated tag from TravisCI build $TRAVIS_BUILD_NUMBER"
 - git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/npm_cards.git" $GIT_TAG
-after_deploy:
-- github_changelog_generator
-- git commit -am "Update CHANGELOG.md & bump version [ci skip]"
-- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/npm_cards.git" HEAD:master > /dev/null 2>&1
