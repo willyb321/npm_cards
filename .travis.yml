@@ -27,10 +27,6 @@ deploy:
     tags: false
     repo: willyb321/npm_cards
     branch: master
-  branches:
-
-  except:
-  - /^*-v[0-9]/
 after_success:
 - export GIT_TAG=build-$TRAVIS_BUILD_NUMBER-$TRAVIS_BRANCH-$(date "+%Y-%m-%d-%I-%M")
 - git tag $GIT_TAG -a -m "Generated tag from TravisCI build $TRAVIS_BUILD_NUMBER"
