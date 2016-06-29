@@ -1,7 +1,31 @@
 # Change Log
 
+## [build-53-master-2016-06-30-08-23](https://github.com/willyb321/npm_cards/tree/build-53-master-2016-06-30-08-23) (2016-06-29)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-50-build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35-2016-06-30-07-37...build-53-master-2016-06-30-08-23)
+
+## [build-50-build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35-2016-06-30-07-37](https://github.com/willyb321/npm_cards/tree/build-50-build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35-2016-06-30-07-37) (2016-06-29)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32...build-50-build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35-2016-06-30-07-37)
+
+## [build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32](https://github.com/willyb321/npm_cards/tree/build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32) (2016-06-29)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35...build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32)
+
+## [build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35](https://github.com/willyb321/npm_cards/tree/build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35) (2016-06-29)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34...build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35)
+
+## [build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34](https://github.com/willyb321/npm_cards/tree/build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34) (2016-06-29)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30...build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34)
+
+## [build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30](https://github.com/willyb321/npm_cards/tree/build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30) (2016-06-29)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-51-build-50-build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35-2016-06-30-07-37-2016-06-30-07-39...build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30)
+
+## [build-51-build-50-build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35-2016-06-30-07-37-2016-06-30-07-39](https://github.com/willyb321/npm_cards/tree/build-51-build-50-build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35-2016-06-30-07-37-2016-06-30-07-39) (2016-06-29)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-44-master-2016-06-30-07-26...build-51-build-50-build-49-build-48-build-47-build-46-build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28-2016-06-30-07-30-2016-06-30-07-32-2016-06-30-07-34-2016-06-30-07-35-2016-06-30-07-37-2016-06-30-07-39)
+
 ## [build-44-master-2016-06-30-07-26](https://github.com/willyb321/npm_cards/tree/build-44-master-2016-06-30-07-26) (2016-06-29)
-[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-42-master-2016-06-30-07-22...build-44-master-2016-06-30-07-26)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28...build-44-master-2016-06-30-07-26)
+
+## [build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28](https://github.com/willyb321/npm_cards/tree/build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28) (2016-06-29)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-42-master-2016-06-30-07-22...build-45-build-44-master-2016-06-30-07-26-2016-06-30-07-28)
 
 ## [build-42-master-2016-06-30-07-22](https://github.com/willyb321/npm_cards/tree/build-42-master-2016-06-30-07-22) (2016-06-29)
 [Full Changelog](https://github.com/willyb321/npm_cards/compare/build-41-master-2016-06-30-06-39...build-42-master-2016-06-30-07-22)
