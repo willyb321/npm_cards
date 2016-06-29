@@ -6,7 +6,7 @@ npm-cards gives you a tree diagram for a standard deck of cards, right from the 
 ## Install
 
 ```sh
-npm install -g npm-cards
+$ [sudo] npm install -g npm-cards
 ```
 ## Compatibility  
 Should run on most systems, Windows, macOS, unix, etc etc.
@@ -14,7 +14,7 @@ Should run on most systems, Windows, macOS, unix, etc etc.
 ## Usage
 
 ```sh
-npm-cards
+$ npm-cards
 ```
 
 ## Changelog  
@@ -23,4 +23,4 @@ See [CHANGELOG.md](https://github.com/willyb321/npm_cards/blob/master/CHANGELOG.
 
 ## License
 
-MIT © [William Blythe](https://tehsuperwilly.tech)
+MIT © [William Blythe (Willyb321)](https://tehsuperwilly.tech)
