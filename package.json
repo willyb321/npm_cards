@@ -1,6 +1,5 @@
 {
-  "name": "npm-cards",
-  "version": "0.0.41",
+  "version": "0.0.45",
   "description": "Standard deck of cards from the CLI",
   "license": "MIT",
   "repository": "willyb321/npm_cards",
@@ -14,7 +13,8 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "xo && nyc ava"
+    "test": "xo && nyc ava",
+    "start": "node cli.js"
   },
   "keywords": [
     "cli-app",
