@@ -1,16 +1,10 @@
 # Change Log
 
-## [build-75-build-74-build-72-master-2016-06-30-02-59-2016-06-30-03-00-2016-06-30-03-02](https://github.com/willyb321/npm_cards/tree/build-75-build-74-build-72-master-2016-06-30-02-59-2016-06-30-03-00-2016-06-30-03-02) (2016-06-30)
-[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-74-build-72-master-2016-06-30-02-59-2016-06-30-03-00...build-75-build-74-build-72-master-2016-06-30-02-59-2016-06-30-03-00-2016-06-30-03-02)
-
-## [build-74-build-72-master-2016-06-30-02-59-2016-06-30-03-00](https://github.com/willyb321/npm_cards/tree/build-74-build-72-master-2016-06-30-02-59-2016-06-30-03-00) (2016-06-30)
-[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-72-master-2016-06-30-02-59...build-74-build-72-master-2016-06-30-02-59-2016-06-30-03-00)
+## [build-78-master-2016-06-30-03-06](https://github.com/willyb321/npm_cards/tree/build-78-master-2016-06-30-03-06) (2016-06-30)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-72-master-2016-06-30-02-59...build-78-master-2016-06-30-03-06)
 
 ## [build-72-master-2016-06-30-02-59](https://github.com/willyb321/npm_cards/tree/build-72-master-2016-06-30-02-59) (2016-06-30)
-[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-71-build-70-master-2016-06-30-02-58-2016-06-30-02-59...build-72-master-2016-06-30-02-59)
-
-## [build-71-build-70-master-2016-06-30-02-58-2016-06-30-02-59](https://github.com/willyb321/npm_cards/tree/build-71-build-70-master-2016-06-30-02-58-2016-06-30-02-59) (2016-06-30)
-[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-70-master-2016-06-30-02-58...build-71-build-70-master-2016-06-30-02-58-2016-06-30-02-59)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-70-master-2016-06-30-02-58...build-72-master-2016-06-30-02-59)
 
 ## [build-70-master-2016-06-30-02-58](https://github.com/willyb321/npm_cards/tree/build-70-master-2016-06-30-02-58) (2016-06-30)
 [Full Changelog](https://github.com/willyb321/npm_cards/compare/build-69-master-2016-06-30-11-32...build-70-master-2016-06-30-02-58)
