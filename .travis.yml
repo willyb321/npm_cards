@@ -4,13 +4,12 @@ node_js:
 cache:
   directories:
   - node_modules
-before_install:
-- rvm 2.3.1
 install:
 - npm install
 - gem install github_changelog_generator
 before_install:
 - export TZ=Australia/Sydney
+- rvm 2.3.1
 script:
 - git config user.name "Travis CI"
 - git config user.email "travis@travis-ci.com"
