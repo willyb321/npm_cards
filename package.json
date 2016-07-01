@@ -1,6 +1,10 @@
 {
   "name": "npm-cards",
+<<<<<<< HEAD
   "version": "0.0.44",
+=======
+  "version": "0.0.47",
+>>>>>>> 2f3adb8a90ba01f40661277616e693cbb1b9b042
   "description": "Standard deck of cards from the CLI",
   "license": "MIT",
   "repository": "willyb321/npm_cards",
