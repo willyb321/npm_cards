@@ -1,5 +1,8 @@
 # Change Log
 
+## [build-86-master-2016-07-08-11-58](https://github.com/willyb321/npm_cards/tree/build-86-master-2016-07-08-11-58) (2016-07-08)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-85-master-2016-07-01-12-02...build-86-master-2016-07-08-11-58)
+
 ## [build-85-master-2016-07-01-12-02](https://github.com/willyb321/npm_cards/tree/build-85-master-2016-07-01-12-02) (2016-07-01)
 [Full Changelog](https://github.com/willyb321/npm_cards/compare/build-79-master-2016-06-30-03-10...build-85-master-2016-07-01-12-02)
 
