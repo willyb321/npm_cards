@@ -16,6 +16,8 @@ script:
 - npm test
 before_deploy:
 - npm version patch -m "Update version to %s & update changelog.md [ci skip]"
+- github_changelog_generator
+- git commit -a --amend --no-edit
 deploy:
   provider: npm
   email: wbwilliam7@gmail.com
@@ -29,8 +31,6 @@ deploy:
   except:
   - /^*-v[0-9]/
 after_deploy:
-- github_changelog_generator
-- git commit -a --amend --no-edit
 - git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/npm_cards.git" HEAD:master > /dev/null 2>&1
 after_success:
 - export GIT_TAG=build-$TRAVIS_BUILD_NUMBER-$TRAVIS_BRANCH-$(date "+%Y-%m-%d-%I-%M")
