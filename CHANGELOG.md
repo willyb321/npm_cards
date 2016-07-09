@@ -1,5 +1,8 @@
 # Change Log
 
+## [build-88-greenkeeper-nyc-7.0.0-2016-07-09-05-31](https://github.com/willyb321/npm_cards/tree/build-88-greenkeeper-nyc-7.0.0-2016-07-09-05-31) (2016-07-09)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-87-master-2016-07-08-12-02...build-88-greenkeeper-nyc-7.0.0-2016-07-09-05-31)
+
 ## [build-87-master-2016-07-08-12-02](https://github.com/willyb321/npm_cards/tree/build-87-master-2016-07-08-12-02) (2016-07-08)
 [Full Changelog](https://github.com/willyb321/npm_cards/compare/build-86-master-2016-07-08-11-58...build-87-master-2016-07-08-12-02)
 
