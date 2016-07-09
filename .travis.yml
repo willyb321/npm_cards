@@ -4,17 +4,18 @@ node_js:
 cache:
   directories:
   - node_modules
-install:
-- npm install
-- gem install github_changelog_generator
 before_install:
 - export TZ=Australia/Sydney
 - rvm install ruby-2.3.1
+install:
+- npm install
+- gem install github_changelog_generator
 script:
 - git config user.name "Travis CI"
 - git config user.email "travis@travis-ci.com"
-- npm version patch -m "Update version to %s [ci skip]" --no-git-tag-version
 - npm test
+before_deploy:
+- npm version patch -m "Update version to %s & update changelog.md [ci skip]"
 deploy:
   provider: npm
   email: wbwilliam7@gmail.com
@@ -23,11 +24,11 @@ deploy:
   on:
     repo: willyb321/npm_cards
     branch: master
+after_deploy:
+- github_changelog_generator
+- git commit -a --amend --no-edit
+- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/npm_cards.git" HEAD:master > /dev/null 2>&1
 after_success:
 - export GIT_TAG=build-$TRAVIS_BUILD_NUMBER-$TRAVIS_BRANCH-$(date "+%Y-%m-%d-%I-%M")
 - git tag $GIT_TAG -a -m "Generated tag from TravisCI build $TRAVIS_BUILD_NUMBER"
 - git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/npm_cards.git" $GIT_TAG
-after_deploy:
-- github_changelog_generator
-- git commit -am "Update CHANGELOG.md & bump version [ci skip]"
-- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/npm_cards.git" HEAD:master > /dev/null 2>&1
