@@ -24,6 +24,10 @@ deploy:
   on:
     repo: willyb321/npm_cards
     branch: master
+  branches:
+
+  except:
+  - /^*-v[0-9]/
 after_deploy:
 - github_changelog_generator
 - git commit -a --amend --no-edit
