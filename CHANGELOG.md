@@ -1,8 +1,7 @@
 # Change Log
 
-## [Unreleased](https://github.com/willyb321/npm_cards/tree/HEAD)
-
-[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-139-build-138-build-137-build-136-build-135-build-134-build-133-build-132-master-2016-08-14-08-35-2016-08-14-08-39-2016-08-14-08-47-2016-08-14-08-51-2016-08-14-08-56-2016-08-14-09-02-2016-08-14-09-07-2016-08-14-09-12...HEAD)
+## [build-141-master-2016-08-14-11-36](https://github.com/willyb321/npm_cards/tree/build-141-master-2016-08-14-11-36) (2016-08-14)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-139-build-138-build-137-build-136-build-135-build-134-build-133-build-132-master-2016-08-14-08-35-2016-08-14-08-39-2016-08-14-08-47-2016-08-14-08-51-2016-08-14-08-56-2016-08-14-09-02-2016-08-14-09-07-2016-08-14-09-12...build-141-master-2016-08-14-11-36)
 
 **Merged pull requests:**
 
