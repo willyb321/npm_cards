@@ -2,7 +2,23 @@
 
 ## [Unreleased](https://github.com/willyb321/npm_cards/tree/HEAD)
 
-[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-139-build-138-build-137-build-136-build-135-build-134-build-133-build-132-master-2016-08-14-08-35-2016-08-14-08-39-2016-08-14-08-47-2016-08-14-08-51-2016-08-14-08-56-2016-08-14-09-02-2016-08-14-09-07-2016-08-14-09-12...HEAD)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-144-build-143-master-2016-08-14-07-09-2016-08-14-07-16...HEAD)
+
+**Merged pull requests:**
+
+- nyc@8.1.0 untested ⚠️ [\#4](https://github.com/willyb321/npm_cards/pull/4) ([greenkeeperio-bot](https://github.com/greenkeeperio-bot))
+
+## [build-144-build-143-master-2016-08-14-07-09-2016-08-14-07-16](https://github.com/willyb321/npm_cards/tree/build-144-build-143-master-2016-08-14-07-09-2016-08-14-07-16) (2016-08-14)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-143-master-2016-08-14-07-09...build-144-build-143-master-2016-08-14-07-09-2016-08-14-07-16)
+
+## [build-143-master-2016-08-14-07-09](https://github.com/willyb321/npm_cards/tree/build-143-master-2016-08-14-07-09) (2016-08-14)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-142-greenkeeper-nyc-8.1.0-2016-08-14-06-46...build-143-master-2016-08-14-07-09)
+
+## [build-142-greenkeeper-nyc-8.1.0-2016-08-14-06-46](https://github.com/willyb321/npm_cards/tree/build-142-greenkeeper-nyc-8.1.0-2016-08-14-06-46) (2016-08-14)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-141-master-2016-08-14-11-36...build-142-greenkeeper-nyc-8.1.0-2016-08-14-06-46)
+
+## [build-141-master-2016-08-14-11-36](https://github.com/willyb321/npm_cards/tree/build-141-master-2016-08-14-11-36) (2016-08-14)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-139-build-138-build-137-build-136-build-135-build-134-build-133-build-132-master-2016-08-14-08-35-2016-08-14-08-39-2016-08-14-08-47-2016-08-14-08-51-2016-08-14-08-56-2016-08-14-09-02-2016-08-14-09-07-2016-08-14-09-12...build-141-master-2016-08-14-11-36)
 
 **Merged pull requests:**
 
