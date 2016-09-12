@@ -1,8 +1,7 @@
 # Change Log
 
-## [Unreleased](https://github.com/willyb321/npm_cards/tree/HEAD)
-
-[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-144-build-143-master-2016-08-14-07-09-2016-08-14-07-16...HEAD)
+## [build-146-master-2016-08-14-07-39](https://github.com/willyb321/npm_cards/tree/build-146-master-2016-08-14-07-39) (2016-08-14)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-144-build-143-master-2016-08-14-07-09-2016-08-14-07-16...build-146-master-2016-08-14-07-39)
 
 **Merged pull requests:**
 
