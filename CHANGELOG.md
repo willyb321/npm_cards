@@ -1,5 +1,26 @@
 # Change Log
 
+## [build-168-build-167-build-166-build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25-2016-10-17-08-29-2016-10-17-08-33-2016-10-17-08-36](https://github.com/willyb321/npm_cards/tree/build-168-build-167-build-166-build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25-2016-10-17-08-29-2016-10-17-08-33-2016-10-17-08-36) (2016-10-16)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-167-build-166-build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25-2016-10-17-08-29-2016-10-17-08-33...build-168-build-167-build-166-build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25-2016-10-17-08-29-2016-10-17-08-33-2016-10-17-08-36)
+
+## [build-167-build-166-build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25-2016-10-17-08-29-2016-10-17-08-33](https://github.com/willyb321/npm_cards/tree/build-167-build-166-build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25-2016-10-17-08-29-2016-10-17-08-33) (2016-10-16)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-166-build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25-2016-10-17-08-29...build-167-build-166-build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25-2016-10-17-08-29-2016-10-17-08-33)
+
+## [build-166-build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25-2016-10-17-08-29](https://github.com/willyb321/npm_cards/tree/build-166-build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25-2016-10-17-08-29) (2016-10-16)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25...build-166-build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25-2016-10-17-08-29)
+
+## [build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25](https://github.com/willyb321/npm_cards/tree/build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25) (2016-10-16)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22...build-165-build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22-2016-10-17-08-25)
+
+## [build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22](https://github.com/willyb321/npm_cards/tree/build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22) (2016-10-16)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17...build-164-build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17-2016-10-17-08-22)
+
+## [build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17](https://github.com/willyb321/npm_cards/tree/build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17) (2016-10-16)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-162-master-2016-10-17-08-14...build-163-build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13-2016-10-17-08-17)
+
+## [build-162-master-2016-10-17-08-14](https://github.com/willyb321/npm_cards/tree/build-162-master-2016-10-17-08-14) (2016-10-16)
+[Full Changelog](https://github.com/willyb321/npm_cards/compare/build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13...build-162-master-2016-10-17-08-14)
+
 ## [build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13](https://github.com/willyb321/npm_cards/tree/build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13) (2016-10-16)
 [Full Changelog](https://github.com/willyb321/npm_cards/compare/build-160-master-2016-10-17-08-12...build-161-build-160-master-2016-10-17-08-12-2016-10-17-08-13)
 
